@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingtai He（何敬泰）"
-  avatar           : "images/avatar.png"
+  name             : "Jingtai He (何敬泰)"
+  avatar           : "images/avatar.jpg"
   bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
