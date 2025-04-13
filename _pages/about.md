@@ -41,6 +41,8 @@ My research interest includes deep learning, computer vision and LLM.
 </div>
 </div>
 
+# 📝 Preprints
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-CSVT</div><img src='../images/DiD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,8 +58,8 @@ Tingting Liu, Xiaoyong Lu, **Jingtai He**, Songlin Du
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- Presidential Scholarship, 2024 | SEU
-- Perfection Student Scholarship, 2022, 2023, 2024 | SEU
+- SEU Presidential Scholarship, 2024 
+- SEU Perfection Student Scholarship, 2022, 2023, 2024 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
