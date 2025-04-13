@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. candidate in Conrol Science and Engineering at Zhejiang University, supervised by Prof. [Wenchao Meng](https://scholar.google.com/citations?hl=zh-CN&user=OiQ2UisAAAAJ). I received my B.Eng degree in Southeast University, supervised by Prof. [Songlin Du](https://songlin.ac.cn/)
+I am pursuing my B.Eng degree in Southeast University, supervised by Prof. [Songlin Du](https://songlin.ac.cn/) I will pursue the Ph.D. degree in Conrol Science and Engineering at Zhejiang University, supervised by Prof. [Wenchao Meng](https://scholar.google.com/citations?hl=zh-CN&user=OiQ2UisAAAAJ). 
 
 My research interest includes deep learning, computer vision and LLM. 
 
