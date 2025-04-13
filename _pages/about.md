@@ -57,7 +57,7 @@ Tingting Liu, Xiaoyong Lu, **Jingtai He**, Songlin Du
 
 # 🎖 Honors and Awards
 - Presidential Scholarship, 2024 | SEU
-- Perfection Student Scholarship, 2022, 2023 and 2024 | SEU
+- Perfection Student Scholarship, 2022, 2023, 2024 | SEU
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
