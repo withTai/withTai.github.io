@@ -18,7 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+<<<<<<< HEAD
 I am pursuing my B.Eng degree in Automation at Southeast University, supervised by Prof. [Songlin Du](https://songlin.ac.cn/). Besides, I am an incoming Ph.D. student in Conrol Science and Engineering at Zhejiang University, supervised by Prof. [Wenchao Meng](https://scholar.google.com/citations?hl=zh-CN&user=OiQ2UisAAAAJ).
+=======
+I am pursuing my B.Eng degree in Southeast University, supervised by Prof. [Songlin Du](https://songlin.ac.cn/). I will pursue the Ph.D. degree in Conrol Science and Engineering at Zhejiang University, supervised by Prof. [Wenchao Meng](https://scholar.google.com/citations?hl=zh-CN&user=OiQ2UisAAAAJ). 
+>>>>>>> de0af73eda5f67b270f38e4c7505c2e2b726985e
 
 My research interest includes deep learning, computer vision and LLM. 
 
