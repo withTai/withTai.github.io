@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am pursuing my B.Eng degree in Automation at Southeast University, supervised by Prof. [Songlin Du](https://songlin.ac.cn/). Besides, I am an incoming Ph.D. student in Conrol Science and Engineering at Zhejiang University, supervised by Prof. [Wenchao Meng](https://scholar.google.com/citations?hl=zh-CN&user=OiQ2UisAAAAJ).
+I am pursuing my B.Eng degree in Automation at Southeast University, supervised by Prof.[Songlin Du](https://songlin.ac.cn/). Besides, I am an incoming Ph.D. student in Conrol Science and Engineering at Zhejiang University, supervised by Prof.[Wenchao Meng](https://scholar.google.com/citations?hl=zh-CN&user=OiQ2UisAAAAJ).
 
 My research interest includes deep learning, computer vision and LLM. 
 
@@ -32,7 +32,7 @@ My research interest includes deep learning, computer vision and LLM.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='../images/RADA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RADA: Robust and Accurate Feature Learning with Domain Adaption](https://arxiv.org/abs/2407.15791)
+[RADA: Robust and Accurate Feature Learning with Domain Adaptation](https://arxiv.org/abs/2407.15791)
 
 **Jingtai He**, Gehao Zhang, Tingting Liu, Songlin Du
 
